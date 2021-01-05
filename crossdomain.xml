@@ -2,5 +2,4 @@
   <site-control permitted-cross-domain-policies="master-only"/>
   <allow-access-from domain="scratchx.org" secure="false"/>
   <allow-access-from domain="llk.github.io"/>
-  <allow-access-from domain="drive.google.com"/>
 </cross-domain-policy>
